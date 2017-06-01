@@ -1,0 +1,89 @@
+Country:
+avgPop=29687008
+popDev=168
+Region
+	New Mexico,2081015,(-106,35),Colorado,Texas,Texas,Arizona,
+	Arizona,6931071,(-112,33),Utah,(None),New Mexico,California,
+	Utah,3051217,(-112,40),Idaho,Arizona,Colorado,Nevada,
+	Nevada,2940058,(-116,37),Idaho,Arizona,Utah,California,
+	Colorado,5540545,(-105,40),Wyoming,New Mexico,Kansas,Utah
+	totalPop=20543906
+	avgStatePos=(-110,37)
+Region
+	Iowa,3134693,(-93,42),Minnesota,Missouri,Illinois,Nebraska,
+	Illinois,12801539,(-88,41),Wisconsin,Missouri,Indiana,Iowa,
+	Minnesota,5519952,(-94,45),North Dakota,Iowa,Wisconsin,South Dakota,
+	Missouri,6093000,(-92,38),Iowa,Arkansas,Illinois,Kansas
+	totalPop=27549184
+	avgStatePos=(-91,41)
+Region
+	North Carolina,10146788,(-80,36),Virginia,South Carolina,(None),Tennessee,
+	South Carolina,4961119,(-81,34),North Carolina,Georgia,Puerto Rico,Georgia,
+	Puerto Rico,3411307,(-66,18),South Carolina,(None),Florida,(None),
+	Virginia,8411808,(-78,38),District of Columbia,North Carolina,Maryland,West Virginia,
+	District of Columbia,681170,(-77,39),Maryland,Virginia,Maryland,Virginia
+	totalPop=27612192
+	avgStatePos=(-76,33)
+Region
+	Texas,27862596,(-97,31),Oklahoma,(None),Louisiana,New Mexico
+	totalPop=27862596
+	avgStatePos=(-97,31)
+Region
+	Delaware,952065,(-76,39),Pennsylvania,(None),New Jersey,Maryland,
+	Maryland,6016447,(-77,39),Pennsylvania,Virginia,Delaware,District of Columbia,
+	New Jersey,8944469,(-74,40),New York,Delaware,Pennsylvania,New York,
+	Pennsylvania,12802503,(-77,40),New York,Maryland,New Jersey,Ohio
+	totalPop=28715484
+	avgStatePos=(-76,39)
+Region
+	Michigan,9928301,(-84,43),(None),Indiana,Ohio,Wisconsin,
+	Wisconsin,5778708,(-89,44),Michigan,Illinois,(None),Minnesota,
+	Ohio,11614373,(-83,40),Michigan,Kentucky,Pennsylvania,Indiana,
+	West Virginia,1831102,(-81,39),Ohio,Virginia,Pennsylvania,Kentucky
+	totalPop=29152484
+	avgStatePos=(-84,41)
+Region
+	Arkansas,2988248,(-93,35),Missouri,Louisiana,Mississippi,Oklahoma,
+	Oklahoma,3923561,(-97,36),Kansas,Texas,Arkansas,Texas,
+	Kansas,2907289,(-96,38),Nebraska,Oklahoma,Missouri,Colorado,
+	Nebraska,1907116,(-97,41),South Dakota,Kansas,Iowa,Colorado,
+	South Dakota,865454,(-99,44),North Dakota,Nebraska,Minnesota,Wyoming,
+	North Dakota,757952,(-99,47),(None),South Dakota,Minnesota,Montana,
+	Montana,1042520,(-111,47),North Dakota,Wyoming,South Dakota,Idaho,
+	Wyoming,585501,(-107,43),Montana,Colorado,Utah,South Dakota,
+	Idaho,1683140,(-115,44),Montana,Utah,Oregon,Wyoming,
+	Washington,7288000,(-122,47),Alaska,Oregon,Idaho,(None),
+	Oregon,4093465,(-123,45),Washington,Nevada,Idaho,California,
+	Alaska,741894,(-149,61),(None),Washington,Montana,(None),
+	Hawaii,1428557,(-157,21),Oregon,(None),California,(None)
+	totalPop=30212697
+	avgStatePos=(-112,42)
+Region
+	Kentucky,4436974,(-85,38),Ohio,Tennessee,West Virginia,Indiana,
+	Indiana,6633053,(-86,40),Michigan,Kentucky,Ohio,Illinois,
+	Tennessee,6651194,(-86,36),Kentucky,Alabama,Mississippi,Arkansas,
+	Mississippi,2988726,(-90,33),Tennessee,Louisiana,Alabama,Arkansas,
+	Alabama,4863300,(-87,33),Tennessee,Florida,Georgia,Mississippi,
+	Louisiana,4681666,(-92,31),Arkansas,(None),Mississippi,Texas
+	totalPop=30254913
+	avgStatePos=(-87,35)
+Region
+	Florida,20612439,(-82,28),Georgia,Puerto Rico,Puerto Rico,Alabama,
+	Georgia,10310371,(-84,33),Tennessee,Florida,Alabama,South Carolina
+	totalPop=30922810
+	avgStatePos=(-83,30)
+Region
+	New Hampshire,1334795,(-71,43),(None),Massachusetts,Maine,Vermont,
+	Maine,1331479,(-70,44),(None),Massachusetts,(None),New Hampshire,
+	Vermont,624594,(-73,44),(None),Massachusetts,New Hampshire,New York,
+	Rhode Island,1056426,(-71,42),Massachusetts,(None),Massachusetts,Connecticut,
+	New York,19745289,(-75,42),New Hampshire,New Jersey,Connecticut,Pennsylvania,
+	Massachusetts,6811779,(-71,42),New Hampshire,Connecticut,Rhode Island,New York,
+	Connecticut,3576452,(-73,41),Massachusetts,(None),Rhode Island,New York
+	totalPop=34480814
+	avgStatePos=(-72,42)
+Region
+	California,39250017,(-119,35),Oregon,Arizona,Nevada,Hawaii
+	totalPop=39250017
+	avgStatePos=(-119,35)
+

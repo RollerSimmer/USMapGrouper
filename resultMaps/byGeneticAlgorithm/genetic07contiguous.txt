@@ -1,0 +1,76 @@
+Country:
+avgPop=46651013
+popDev=43
+Region
+	Illinois,12801539,(-88,41),Wisconsin,Missouri,Indiana,Iowa,
+	Indiana,6633053,(-86,40),Michigan,Kentucky,Ohio,Illinois,
+	Missouri,6093000,(-92,38),Iowa,Arkansas,Illinois,Kansas,
+	Tennessee,6651194,(-86,36),Kentucky,Alabama,Mississippi,Arkansas,
+	Alabama,4863300,(-87,33),Tennessee,Florida,Georgia,Mississippi,
+	Arkansas,2988248,(-93,35),Missouri,Louisiana,Mississippi,Oklahoma,
+	Mississippi,2988726,(-90,33),Tennessee,Louisiana,Alabama,Arkansas
+	totalPop=43019060
+	avgStatePos=(-88,36)
+Region
+	New York,19745289,(-75,42),New Hampshire,New Jersey,Connecticut,Pennsylvania,
+	Connecticut,3576452,(-73,41),Massachusetts,(None),Rhode Island,New York,
+	Massachusetts,6811779,(-71,42),New Hampshire,Connecticut,Rhode Island,New York,
+	New Hampshire,1334795,(-71,43),(None),Massachusetts,Maine,Vermont,
+	Maine,1331479,(-70,44),(None),(None),(None),New Hampshire,
+	Rhode Island,1056426,(-71,42),Massachusetts,(None),Massachusetts,Connecticut,
+	Vermont,624594,(-73,44),(None),Massachusetts,New Hampshire,New York,
+	New Jersey,8944469,(-74,40),New York,Delaware,Pennsylvania,New York,
+	Delaware,952065,(-76,39),Pennsylvania,(None),New Jersey,Maryland
+	totalPop=44377348
+	avgStatePos=(-72,41)
+Region
+	Texas,27862596,(-97,31),Oklahoma,(None),Louisiana,New Mexico,
+	Louisiana,4681666,(-92,31),Arkansas,(None),Mississippi,Texas,
+	Oklahoma,3923561,(-97,36),Kansas,Texas,Arkansas,Texas,
+	New Mexico,2081015,(-106,35),Colorado,Texas,Texas,Arizona,
+	Arizona,6931071,(-112,33),Utah,(None),New Mexico,California
+	totalPop=45479909
+	avgStatePos=(-100,33)
+Region
+	Michigan,9928301,(-84,43),(None),Indiana,Ohio,Wisconsin,
+	Wisconsin,5778708,(-89,44),Michigan,Illinois,(None),Minnesota,
+	Minnesota,5519952,(-94,45),North Dakota,Iowa,Wisconsin,South Dakota,
+	Iowa,3134693,(-93,42),Minnesota,Missouri,Illinois,Nebraska,
+	Nebraska,1907116,(-97,41),South Dakota,Kansas,Iowa,Colorado,
+	Colorado,5540545,(-105,40),Wyoming,New Mexico,Kansas,Utah,
+	Utah,3051217,(-112,40),Idaho,Arizona,Colorado,Nevada,
+	Nevada,2940058,(-116,37),Idaho,Arizona,Utah,California,
+	Idaho,1683140,(-115,44),Montana,Utah,Oregon,Wyoming,
+	Montana,1042520,(-111,47),North Dakota,Wyoming,South Dakota,Idaho,
+	South Dakota,865454,(-99,44),North Dakota,Nebraska,Minnesota,Wyoming,
+	North Dakota,757952,(-99,47),(None),South Dakota,Minnesota,Montana,
+	Wyoming,585501,(-107,43),Montana,Colorado,Utah,South Dakota,
+	Kansas,2907289,(-96,38),Nebraska,Oklahoma,Missouri,Colorado
+	totalPop=45642446
+	avgStatePos=(-101,42)
+Region
+	Pennsylvania,12802503,(-77,40),New York,Maryland,New Jersey,Ohio,
+	Maryland,6016447,(-77,39),Pennsylvania,Virginia,Delaware,District of Columbia,
+	Virginia,8411808,(-78,38),District of Columbia,North Carolina,Maryland,West Virginia,
+	West Virginia,1831102,(-81,39),Ohio,Virginia,Pennsylvania,Kentucky,
+	District of Columbia,681170,(-77,39),Maryland,Virginia,Maryland,Virginia,
+	Ohio,11614373,(-83,40),Michigan,Kentucky,Pennsylvania,Indiana,
+	Kentucky,4436974,(-85,38),Ohio,Tennessee,West Virginia,Indiana
+	totalPop=45794377
+	avgStatePos=(-79,39)
+Region
+	Florida,20612439,(-82,28),Georgia,Puerto Rico,Puerto Rico,Alabama,
+	Georgia,10310371,(-84,33),Tennessee,Florida,Alabama,South Carolina,
+	South Carolina,4961119,(-81,34),North Carolina,Georgia,(None),Georgia,
+	North Carolina,10146788,(-80,36),Virginia,South Carolina,(None),Tennessee,
+	Puerto Rico,3411307,(-66,18),Florida,(None),(None),(None)
+	totalPop=49442024
+	avgStatePos=(-78,29)
+Region
+	California,39250017,(-119,35),Oregon,Arizona,Nevada,Hawaii,
+	Oregon,4093465,(-123,45),Washington,Nevada,Idaho,California,
+	Washington,7288000,(-122,47),Alaska,Oregon,Idaho,(None),
+	Hawaii,1428557,(-157,21),(None),(None),California,(None),
+	Alaska,741894,(-149,61),(None),Washington,(None),(None)
+	totalPop=52801933
+	avgStatePos=(-134,41)

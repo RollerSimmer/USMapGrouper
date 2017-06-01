@@ -1,0 +1,15 @@
+20170507
+	+ started java project
+20170508
+	+ got a list of regions built  
+	+ added epicenter separation by preventing epicenter state touching                                                                                                                                                               
+20170509
+	+ separated epicenter states by minimum distance
+20170529
+	+ added map drawing panel to interface
+	+ basic outlines drawn
+	+ added a color field to region and automatically pick a color upon region construction
+	+ draw color of states set according to region	
+todo
+	- instead of adding largest adjacent state, add state closest to region center.
+
